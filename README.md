@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning web dev and soft dev
 - 💞️ I’m looking for a job.
-- 📫 How to reach me, just send a text message through 09667242004
+- 📫 How to reach me, just send a text message through 09667242004 or email me thru edrisbadronjr1@gmail.com
 
 <!---
 nicola155/nicola155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
